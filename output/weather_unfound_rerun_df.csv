@@ -1,0 +1,48 @@
+,Unnamed: 0,State,City,CityFIPS,Average Temperature,Historic Low Temp,Average High Temp,Average Low Temp,Historic High Temp
+0,32936,Arizona,Scottsdale,465000.0,76,27,95,54,118
+1,45602,California,Alameda,600562.0,58,30,78,45,101
+2,122603,California,Menifee,646842.0,,,,,
+3,156657,California,San Buenaventura (Ventura),665042.0,,,,,
+4,187639,California,South Gate,673080.0,65,36,86,52,112
+5,205880,Colorado,Boulder,807850.0,52,-13,78,27,104
+6,230260,District of Columbia,Washington,1150000.0,58,5,81,41,105
+7,267832,Florida,Sunrise,1269700.0,,,,,
+8,336274,Indiana,Fishers,1823278.0,53,-13,76,31,102
+9,357390,Kansas,Olathe,2052575.0,,,,,
+10,402953,Michigan,Ann Arbor,2603000.0,47,-30,73,22,102
+11,424127,Michigan,Wyoming,2688940.0,,,,,
+12,458515,Nevada,Las Vegas,3240000.0,71,24,91,50,114
+13,469719,New Jersey,Elizabeth,3421000.0,,,,,
+14,470503,New Jersey,Jersey City,3436000.0,,,,,
+15,482946,New Mexico,Santa Fe,3570500.0,,,,,
+16,483914,New York,Albany,3601000.0,,,,,
+17,484697,New York,Buffalo,3611000.0,,,,,
+18,547962,New York,Rochester,3663000.0,,,,,
+19,552562,New York,Yonkers,3684000.0,,,,,
+20,554046,North Carolina,Asheville,3702140.0,55,-1,78,35,98
+21,555018,North Carolina,Cary,3710740.0,59,4,83,39,105
+22,556218,North Carolina,Charlotte,3712000.0,60,6,83,39,104
+23,561876,North Carolina,Concord,3714100.0,59,7,82,39,100
+24,562588,North Carolina,Durham,3719000.0,59,4,83,39,105
+25,564385,North Carolina,Fayetteville,3722920.0,61,8,84,41,103
+26,565910,North Carolina,Gastonia,3725580.0,59,6,82,39,105
+27,566995,North Carolina,Greensboro,3728000.0,58,5,81,38,100
+28,569329,North Carolina,Greenville,3728080.0,60,-4,82,39,100
+29,570053,North Carolina,High Point,3731400.0,58,5,81,38,100
+30,571088,North Carolina,Jacksonville,3734200.0,61,9,83,42,99
+31,571610,North Carolina,Raleigh,3755000.0,59,4,83,39,105
+32,574365,North Carolina,Wilmington,3774440.0,64,11,85,42,103
+33,575289,North Carolina,Winston-Salem,3775000.0,58,4,80,39,102
+34,616637,Oregon,Bend,4105800.0,54,-10,77,32,105
+35,647537,South Carolina,Charleston,4513330.0,65,16,86,46,99
+36,648826,South Carolina,Columbia,4516000.0,63,16,86,45,106
+37,650709,South Carolina,Mount Pleasant,4548535.0,65,16,86,46,99
+38,651134,South Carolina,North Charleston,4550875.0,65,16,86,46,99
+39,652002,South Carolina,Rock Hill,4561405.0,59,6,82,39,103
+40,664528,Tennessee,Murfreesboro,4751560.0,58,3,83,35,112
+41,756255,Texas,Tyler,4874144.0,66,13,87,45,109
+42,764239,Utah,Sandy,4967440.0,55,-5,79,33,104
+43,768064,Virginia,Chesapeake,5116000.0,58,-6,82,37,100
+44,784444,Washington,Federal Way,5323515.0,54,14,73,39,103
+45,793284,Washington,Tacoma,5370000.0,,,,,
+46,794849,Washington,Vancouver,5374060.0,,,,,
