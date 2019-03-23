@@ -1,0 +1,16 @@
+,Unnamed: 0,State,City,CityFIPS,Average Temperature,Historic Low Temp,Average High Temp,Average Low Temp,Historic High Temp
+0,122603,California,Menifee,646842.0,,,,,
+1,156657,California,San Buenaventura (Ventura),665042.0,,,,,
+2,267832,Florida,Sunrise,1269700.0,,,,,
+3,357390,Kansas,Olathe,2052575.0,,,,,
+4,424127,Michigan,Wyoming,2688940.0,,,,,
+5,469719,New Jersey,Elizabeth,3421000.0,,,,,
+6,470503,New Jersey,Jersey City,3436000.0,,,,,
+7,482946,New Mexico,Santa Fe,3570500.0,,,,,
+8,483914,New York,Albany,3601000.0,,,,,
+9,484697,New York,Buffalo,3611000.0,,,,,
+10,547962,New York,Rochester,3663000.0,,,,,
+11,552562,New York,Yonkers,3684000.0,,,,,
+12,669731,Texas,Abilene,4801000.0,65,9,90,40,109
+13,793284,Washington,Tacoma,5370000.0,,,,,
+14,794849,Washington,Vancouver,5374060.0,,,,,

@@ -1,17 +1,9 @@
 ,State,City,CityFIPS
-32936,Arizona,Scottsdale,465000.0
-45602,California,Alameda,600562.0
 122603,California,Menifee,646842.0
 156657,California,San Buenaventura (Ventura),665042.0
-187639,California,South Gate,673080.0
-205880,Colorado,Boulder,807850.0
-230260,District of C,Washington,1150000.0
 267832,Florida,Sunrise,1269700.0
-336274,Indiana,Fishers,1823278.0
 357390,Kansas,Olathe,2052575.0
-402953,Michigan,Ann Arbor,2603000.0
 424127,Michigan,Wyoming,2688940.0
-458515,Nevada,Las Vegas,3240000.0
 469719,New Jersey,Elizabeth,3421000.0
 470503,New Jersey,Jersey City,3436000.0
 482946,New Mexico,Santa Fe,3570500.0
@@ -19,30 +11,6 @@
 484697,New York,Buffalo,3611000.0
 547962,New York,Rochester,3663000.0
 552562,New York,Yonkers,3684000.0
-554046,North Carolin,Asheville,3702140.0
-555018,North Carolin,Cary,3710740.0
-556218,North Carolin,Charlotte,3712000.0
-561876,North Carolin,Concord,3714100.0
-562588,North Carolin,Durham,3719000.0
-564385,North Carolin,Fayetteville,3722920.0
-565910,North Carolin,Gastonia,3725580.0
-566995,North Carolin,Greensboro,3728000.0
-569329,North Carolin,Greenville,3728080.0
-570053,North Carolin,High Point,3731400.0
-571088,North Carolin,Jacksonville,3734200.0
-571610,North Carolin,Raleigh,3755000.0
-574365,North Carolin,Wilmington,3774440.0
-575289,North Carolin,Winston-Salem,3775000.0
-616637,Oregon,Bend,4105800.0
-647537,South Carolin,Charleston,4513330.0
-648826,South Carolin,Columbia,4516000.0
-650709,South Carolin,Mount Pleasant,4548535.0
-651134,South Carolin,North Charleston,4550875.0
-652002,South Carolin,Rock Hill,4561405.0
-664528,Tennessee,Murfreesboro,4751560.0
-756255,Texas,Tyler,4874144.0
-764239,Utah,Sandy,4967440.0
-768064,Virginia,Chesapeake,5116000.0
-784444,Washington,Federal Way,5323515.0
+669731,Texas,Abilene,4801000.0
 793284,Washington,Tacoma,5370000.0
 794849,Washington,Vancouver,5374060.0
